@@ -78,7 +78,7 @@ Before running the application, install:
 
 ```bash
 git clone https://github.com/joelgautam/document-rag-backend.git
-cd rag_backend
+cd document-rag-backend
 ```
 
 
