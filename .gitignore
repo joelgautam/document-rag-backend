@@ -1,0 +1,25 @@
+# Environment variables and secrets
+.env
+app/.env
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/

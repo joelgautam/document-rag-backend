@@ -1,0 +1,5 @@
+Artificial Intelligence is a field of computer science.
+Machine Learning allows computers to learn patterns from data.
+Deep Learning uses neural networks to solve complex problems.
+Python is widely used in data science and artificial intelligence.
+Retrieval Augmented Generation combines document retrieval with language generation.
